@@ -12,3 +12,20 @@ This repository contains the code associated with the paper:
 
 ![Overview](assets/gameopt.png)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@article{bal_gameopt,
+      title={Optimistic Games for Combinatorial Bayesian Optimization with Application to Protein Design},
+      author={Melis Ilayda Bal, Pier Giuseppe Sessa, Mojmir Mutny, Andreas Krause},
+      year={2025},
+      journal={International Conference on Learning Representations (ICLR)},
+}
+```
+
